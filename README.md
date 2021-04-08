@@ -38,3 +38,7 @@ For each test case you should print Conjunto Bom or Conjunto Ruim, as explained 
 
 # Submission URI
 ![URI](https://github.com/mayconlyn/assets/blob/master/Desafios/GoodAndBadSets/Submission.png)
+
+# Autor
+Maycon Lyncoln Garcia
+<p> https://www.linkedin.com/in/maycon-garcia-66a820112/
