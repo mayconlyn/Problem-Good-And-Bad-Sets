@@ -1,4 +1,4 @@
-# Problema Good And Bad Sets
+# Problema: Good And Bad Sets
 URI Online Judge | 2087 |
 By Gabriel Duarte, UNIFESO BR Brazil
 https://www.urionlinejudge.com.br/judge/en/problems/view/2087
